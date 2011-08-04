@@ -1,0 +1,5 @@
+These files were written to solve the problems located at http://www.codeeval.com as a way of procrastinating rather than study for finals. They are kept for posterity's sake because, while many programs are extremely basic, they contain interesting exploitations of Python's list comprehension feature and a few interesting algorithms.
+
+This software is released under the GPL "as-is" without any warranty.
+Copyright (C) 2011 by Eric Bakan.
+
